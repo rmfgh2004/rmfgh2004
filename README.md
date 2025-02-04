@@ -1,16 +1,19 @@
-## Hi there 👋
+### **Introduction**
 
-<!--
-**rmfgh2004/rmfgh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Tech Stacks**
+<div>
+  <img src="https://img.shields.io/badge/Java-11B48A?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
-Here are some ideas to get you started:
+### **Interested in**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+  [![rmfgh2004's github stats](https://github-readme-stats.vercel.app/api?username=rmfgh2004&count_private=true&custom_title=rmfgh2004&nbsp;&bg_color=30,b3bfff,ccdaff&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmfgh2004&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&bg_color=30,b3bfff,ccdaff&title_color=fff&text_color=fff&&hide=makefile,HTML)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmfgh2004)](https://solved.ac/rmfgh2004)
